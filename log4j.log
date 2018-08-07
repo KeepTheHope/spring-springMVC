@@ -1,0 +1,20 @@
+40:18.341[AbstractFileConfiguration.java:576:DEBUG] FileName set to application.properties
+40:18.350[ ConfigurationUtils.java:452:DEBUG] ConfigurationUtils.locate(): base is null, name is application.properties
+40:18.354[  DefaultFileSystem.java:267:DEBUG] Could not locate file application.properties at null: no protocol: application.properties
+40:18.360[ ConfigurationUtils.java:553:DEBUG] Loading configuration from the context classpath (application.properties)
+40:18.361[AbstractFileConfiguration.java:614:DEBUG] Base path set to file:///D:/SSMTemplate/springMvc/target/classes/application.properties
+41:41.986[AbstractFileConfiguration.java:576:DEBUG] FileName set to application.properties
+41:41.999[ ConfigurationUtils.java:452:DEBUG] ConfigurationUtils.locate(): base is null, name is application.properties
+41:42.005[  DefaultFileSystem.java:267:DEBUG] Could not locate file application.properties at null: no protocol: application.properties
+41:42.011[ ConfigurationUtils.java:553:DEBUG] Loading configuration from the context classpath (application.properties)
+41:42.012[AbstractFileConfiguration.java:614:DEBUG] Base path set to file:///D:/SSMTemplate/springMvc/target/classes/application.properties
+42:13.636[AbstractFileConfiguration.java:576:DEBUG] FileName set to application.properties
+42:13.690[ ConfigurationUtils.java:452:DEBUG] ConfigurationUtils.locate(): base is null, name is application.properties
+42:13.693[  DefaultFileSystem.java:267:DEBUG] Could not locate file application.properties at null: no protocol: application.properties
+42:13.703[ ConfigurationUtils.java:553:DEBUG] Loading configuration from the context classpath (application.properties)
+42:13.704[AbstractFileConfiguration.java:614:DEBUG] Base path set to file:///D:/SSMTemplate/springMvc/target/classes/application.properties
+43:24.780[AbstractFileConfiguration.java:576:DEBUG] FileName set to application.properties
+43:24.812[ ConfigurationUtils.java:452:DEBUG] ConfigurationUtils.locate(): base is null, name is application.properties
+43:24.815[  DefaultFileSystem.java:267:DEBUG] Could not locate file application.properties at null: no protocol: application.properties
+43:24.820[ ConfigurationUtils.java:553:DEBUG] Loading configuration from the context classpath (application.properties)
+43:24.821[AbstractFileConfiguration.java:614:DEBUG] Base path set to file:///D:/SSMTemplate/springMvc/target/classes/application.properties
